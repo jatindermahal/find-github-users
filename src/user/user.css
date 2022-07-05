@@ -1,0 +1,15 @@
+.spinner{
+    margin: 25% 0 0 50%;
+    width:70px !important;
+    height:70px !important;
+}
+
+h2{
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+
+.card{
+    text-align: center;
+    margin: auto;
+}

@@ -1,0 +1,11 @@
+#list-parent{
+    text-decoration: none;
+    margin-bottom: 50px;;
+}
+
+.li-head{
+    margin-top: 50px;
+    font-weight: bold;
+    border-width: 2.5px !important;
+    font-size: large;
+}

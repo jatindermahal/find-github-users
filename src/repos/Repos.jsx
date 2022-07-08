@@ -51,7 +51,7 @@ export default function Repos() {
             <Table striped="columns" bordered hover responsive>
             <thead>
                 <tr>
-                    <th>Name</th>
+                    <th>Name <i className="fas fa-arrow-up-right-from-square fa-fw fa-lg"></i></th>
                     <th>Description</th>
                     <th>Language</th>
                     <th>Modified</th>

@@ -55,7 +55,7 @@ export default function User() {
                 <Card.Body>
                     <Card.Title>{user.name}</Card.Title>
                     <Card.Text>
-                    ({<a className="link" href={user.html_url}>@{user.login}</a>})
+                    ({<a className="link" href={user.html_url}>@{user.login} <i className="fas fa-arrow-up-right-from-square fa-fw fa-sm"></i></a>})
                     <br /> <br />
                     {user.bio}
                     </Card.Text>
